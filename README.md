@@ -109,12 +109,6 @@ Create `.env` files in both `/client` and `/server` directories and add necessar
 
 ---
 
-## 📃 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 Developed by Swaminathan K
